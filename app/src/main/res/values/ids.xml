@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etName" type="id">etName</item>
+    <item name="etDob" type="id">etDob</item>
+    <item name="etEmail" type="id">etEmail</item>
+    <item name="etPassword" type="id">etPassword</item>
+    <item name="btnRegisterLbl" type="id">btnRegisterLbl</item>
+    <item name="etLogInEmail" type="id">etLoginEmail</item>
+    <item name="etLogInPassword" type="id">etLoginPassword</item>
+    <item name="btnLogInButton" type="id">btnLoginButton</item>
+</resources>
