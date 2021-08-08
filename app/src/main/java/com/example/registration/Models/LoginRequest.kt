@@ -1,4 +1,6 @@
 package com.example.registration.Models
 
-class LoginRequest(var email: String,var password: String) {
-}
+data class LoginRequest(
+    var password:String,
+    var email:String
+)
