@@ -22,6 +22,7 @@ import retrofit2.Response
 //class LoginActivity : AppCompatActivity() {
 //    lateinit var etLogInEmail: EditText
 //    lateinit var etLogInPassword: EditText
+//edits.
 //    lateinit var btLogInButton: Button
 //    lateinit var binding:ActivityLoginBinding
 //
